@@ -1,6 +1,6 @@
 # HipsterHub
 
-Collaborators: Gradinariu Rares Ioan (GRay2002), Timisica Andrei (ShadowSquirrel77), Pavaloiu Bianca-Anastasia (GRay2002)
+Collaborators: Gradinariu Rares Ioan (GRay2002), Timisica Andrei (ShadowSquirrel77), Pavaloiu Bianca-Anastasia (Bakitten)
 
 Theme: wines, vintage vinyl records, and artisanal coffee online shop
 
