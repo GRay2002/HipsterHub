@@ -7,3 +7,5 @@ Shopping Cart: Add your favorite items to your shopping cart with just a click, 
 User Profile: Create a personalized user profile to enhance your shopping experience. Save your favorite items for future reference, track your order history, and manage your shipping and billing information with ease.
 
 Favorites: Discover new favorites and revisit old classics by adding items to your list of favorites.
+
+Admin User: Will be able to manage orders, add products, and view user info. 
