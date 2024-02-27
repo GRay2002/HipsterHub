@@ -1,4 +1,4 @@
-# WAD-Project
+# HipsterHub
 
 Collaborators: Gradinariu Rares Ioan (GRay2002), Timisica Andrei (ShadowSquirrel77), Pavaloiu Bianca-Anastasia (GRay2002)
 
