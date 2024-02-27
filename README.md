@@ -1,6 +1,10 @@
 # WAD-Project
 
+Collaborators: Gradinariu Rares Ioan, Timisica Andrei, Pavaloiu Bianca-Anastasia 
+
 Theme: wines, vintage vinyl records, and artisanal coffee online shop
+
+Songs demo with animation, make your coffee blend.  
 
 Shopping Cart: Add your favorite items to your shopping cart with just a click, and keep track of your selections as you browse. Our intuitive shopping cart makes it easy to manage your purchases and proceed to checkout whenever you're ready.
 
